@@ -72,7 +72,7 @@ Common endpoints you’ll use:
 ---
 
 ## 📄 License
-MIT — feel free to use and adapt.
+MIT
 
 ---
 
